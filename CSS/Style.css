@@ -161,9 +161,12 @@ footer #copyright {
     margin: auto;
     text-align: center;
 }
-
+#gallery h1 {
+    background-color: red;
+}
 .about h1 {
     background-color: red;
+    padding: 1.5px;
 }
 button {
     font-size: 25px;
@@ -281,6 +284,9 @@ form fieldset {
     display: grid;
     grid-template-columns: 30%, 1fr;
     grid-template-rows: 1;
+}
+.contact-us h1 {
+    padding-top: 25px;
 }
 .contact-us h2 {
     margin-top: 30px;
