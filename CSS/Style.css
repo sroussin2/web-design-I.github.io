@@ -162,6 +162,9 @@ footer #copyright {
     text-align: center;
 }
 
+.about h1 {
+    background-color: red;
+}
 button {
     font-size: 25px;
     padding: 20px;
