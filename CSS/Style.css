@@ -163,6 +163,7 @@ footer #copyright {
 }
 
 button {
+    font-size: 25px;
     padding: 20px;
     margin: 30px;
     background-color: red;
