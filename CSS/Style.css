@@ -295,7 +295,7 @@ form fieldset {
 #gallery {
     margin-bottom: 75px;
 }
-@media (min-width: 480px) {
+@media (min-width: 600px) {
     aside #sign-petition {
         float: right;    
         padding-top: 60px;
