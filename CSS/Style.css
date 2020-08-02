@@ -173,6 +173,11 @@ footer #copyright {
     text-align: center;
 }
 
+button {
+    padding: 20px;
+    margin: 30px;
+    background-color: red;
+}
 article {
     font-family: helvetica, arial, sans-serif;
     color: gray;
